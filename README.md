@@ -11,6 +11,7 @@ composition.
 
 - [Mattermost stack on Wodby](https://wodby.com/stacks/mattermost)
 - [Browse Wodby application stacks](https://wodby.com/stacks)
+- [Mattermost stack guide](https://wodby.com/docs/2.0/stacks/catalog/mattermost/)
 - [Wodby stack documentation](https://wodby.com/docs/2.0/stacks/)
 - [Stack manifest reference](https://wodby.com/docs/2.0/stacks/template/)
 
